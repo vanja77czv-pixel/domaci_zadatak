@@ -2,7 +2,7 @@
 
 ## zadatak
 
-Program koji na osnovu unetih **stranica** pravougaonika `a` i `b` izracunava duzinu **dijagonala** pravougaonmika `d`
+Program koji na osnovu unetih **stranica** pravougaonika `a` i `b` izracunava duzinu **dijagonala** pravougaonika `d`
 
 ## Formula 
 
